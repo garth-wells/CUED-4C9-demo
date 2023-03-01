@@ -12,6 +12,7 @@
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {
+			"python.defaultInterpreterPath": "/usr/bin/python3",
 			"extensions": [
 				"ms-toolsai.jupyter",
 				"ms-python.python"
